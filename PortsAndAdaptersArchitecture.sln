@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItEmperor.PortsAndAdapters.Api", "ItEmperor.PortsAndAdapters.Api\ItEmperor.PortsAndAdapters.Api.csproj", "{42A1A7BA-5DD1-4821-A7BE-EBCE3A9F98A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItEmperor.PortsAndAdapters.Domain", "ItEmperor.PortsAndAdapters.Domain\ItEmperor.PortsAndAdapters.Domain.csproj", "{62E61024-940A-4349-AA6C-545215AA367D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItEmperor.PortsAndAdapters.DalLayer", "ItEmperor.PortsAndAdapters.DalLayer\ItEmperor.PortsAndAdapters.DalLayer.csproj", "{FC977E78-1203-4E03-BAE9-6DEC577386C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItEmperor.PortsAndAdapters.ReadModelAbstraction", "ItEmperor.PortsAndAdapters.ReadModelAbstraction\ItEmperor.PortsAndAdapters.ReadModelAbstraction.csproj", "{40EA4751-57F6-4935-B0A0-072AC2620C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A1A7BA-5DD1-4821-A7BE-EBCE3A9F98A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A1A7BA-5DD1-4821-A7BE-EBCE3A9F98A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A1A7BA-5DD1-4821-A7BE-EBCE3A9F98A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A1A7BA-5DD1-4821-A7BE-EBCE3A9F98A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E61024-940A-4349-AA6C-545215AA367D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E61024-940A-4349-AA6C-545215AA367D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E61024-940A-4349-AA6C-545215AA367D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E61024-940A-4349-AA6C-545215AA367D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC977E78-1203-4E03-BAE9-6DEC577386C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC977E78-1203-4E03-BAE9-6DEC577386C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC977E78-1203-4E03-BAE9-6DEC577386C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC977E78-1203-4E03-BAE9-6DEC577386C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EA4751-57F6-4935-B0A0-072AC2620C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EA4751-57F6-4935-B0A0-072AC2620C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EA4751-57F6-4935-B0A0-072AC2620C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EA4751-57F6-4935-B0A0-072AC2620C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
